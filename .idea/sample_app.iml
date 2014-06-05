@@ -133,6 +133,7 @@
     <orderEntry type="library" scope="PROVIDED" name="coffee-script-source (v1.7.0, RVM: ruby-2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, RVM: ruby-2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="execjs (v2.1.0, RVM: ruby-2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.3, RVM: ruby-2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="hike (v1.2.3, RVM: ruby-2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.9, RVM: ruby-2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v1.5.3, RVM: ruby-2.1.0) [gem]" level="application" />
@@ -146,11 +147,11 @@
     <orderEntry type="library" scope="PROVIDED" name="rails (v4.0.5, RVM: ruby-2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v4.0.5, RVM: ruby-2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v10.3.2, RVM: ruby-2.1.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.1.1, RVM: ruby-2.1.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass (v3.2.19, RVM: ruby-2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.12.2, RVM: ruby-2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass (v3.3.8, RVM: ruby-2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v4.0.3, RVM: ruby-2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sdoc (v0.4.0, RVM: ruby-2.1.0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.11.0, RVM: ruby-2.1.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.12.1, RVM: ruby-2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v2.0.1, RVM: ruby-2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.9, RVM: ruby-2.1.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v0.19.1, RVM: ruby-2.1.0) [gem]" level="application" />
